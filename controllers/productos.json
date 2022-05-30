@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Escuadra",
+    "price": "123.45",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png"
+  },
+  {
+    "id": 2,
+    "title": "Calculadora",
+    "price": "234.56",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png"
+  },
+  {
+    "id": 3,
+    "title": "Globo Terráqueo",
+    "price": "345.67",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+  },
+  {
+    "title": "Chrome",
+    "price": "111",
+    "thumbnail": "https://cdn0.iconfinder.com/data/icons/game-asset-1/24/game-256.png",
+    "id": 4
+  },
+  {
+    "id": 5,
+    "title": "Firefox",
+    "price": "222",
+    "thumbnail": "https://i.picsum.photos/id/193/200/300.jpg?hmac=b5ZG1TfdndbrnQ8UJbIu-ykB2PRWv0QpHwehH0pqMgE"
+  },
+  {
+    "id": 6,
+    "title": "Test validación campos",
+    "price": "333.21",
+    "thumbnail": "https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+  },
+  {
+    "id": 7,
+    "title": "Pokemon",
+    "price": "5555.55",
+    "thumbnail": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+  }
+]
