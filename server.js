@@ -13,6 +13,7 @@ const Mensajes = require('./controllers/mensajes.js');
 const productos = new Productos('./controllers/productos.json')
 const mensajes = new Mensajes('./controllers/mensajes.json');
 
+
 ioServer.on("connection", async (socket) => {
     console.log("Nuevo usuario conectado");
 
@@ -33,7 +34,7 @@ ioServer.on("connection", async (socket) => {
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static('public'));
+app.use('/api/productos', express.static('public'));
 
 const PORT = 8080;
 httpServer.listen(PORT, (err) => {
